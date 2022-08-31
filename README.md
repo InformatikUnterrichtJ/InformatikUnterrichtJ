@@ -19,5 +19,6 @@ An diesem Tag haben wir uns die Informationen über den Arduino und den Rasperry
 #### 24.08.2022
 Bereits zum Anfang dieser Stunde entschieden wir uns dazu nicht mit Greenfoot, sondern erstmal mit Snap zu arbeiten. Dort haben wir uns anschließend eingelesen und ein erstes Projekt erstellt, um uns mit dem Programm vertraut zu machen.
 Das Projekt nannten wir den "Who´s the right one"-Simulator. Die Idee dahinter ist, dass der Simulator zwei Kreise hat, von denen einer grün und einer rot ist. Hierbei steht der Grüne für die präferierte Person und der Rote für die Person der man eher kritisch gegenüber steht. Den Kreisen wird am Anfang vom Spieler je ein Name zugeordnet und anschließend wechseln sie die Form zu einem identischen grünen, nicht ausgefüllten Kreis. Nun kann der Spieler mit den Pfeiltasten einen Pfeil steuern. Berührt er einen der Kreise löst dieser auf, ob er der grüne oder rote Kreis war.
-- [Code Pfeil](
-- [Code Kreis (grün)]
+- [Code Pfeil](https://user-images.githubusercontent.com/111415429/187611705-13aa0be0-3326-47ed-909a-2d68762f0745.png)
+- [Code Kreis (grün)](https://user-images.githubusercontent.com/111415429/187611787-019f5ed9-9069-4f1f-bc55-4a4b8b4d57ae.png)
+
