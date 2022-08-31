@@ -2,6 +2,8 @@
 ### Inhaltsverzeichnis
  - [16.08.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#16082022) 
  - [17.08.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#17082022)
+ - [23.08.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#23082022)
+ - [24.08.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#24082022)
 
 
 #### 16.08.2022
