@@ -29,3 +29,13 @@ In den letzten Stunden haben wir uns mit verschiedenen Programmiersprachen ausei
 
 #### 31.08.2022
 Heute haben wir uns wieder unserem Arbeitsprotokoll zugewandt und dieses mit genaueren Beschreibungen und Screenshots erweitert.
+Wirkungsgefüge Kaffewecker:
+ - Wecker 
+  -> Start des Erhitzen vom Wasser + Einfüllen des Kaffepulvers in die Presse
+ - gewünschte Temperatur erricht
+  -> Wasser wird in Presse gefüllt
+  -> Timer wird gestartet
+  -> Deckel wird auf Presse gesenkt
+ - Zeit abgelaufen
+  -> Presse runterdrücken
+  -> Siganl
