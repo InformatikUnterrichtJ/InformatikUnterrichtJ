@@ -38,4 +38,4 @@ Wirkungsgefüge Kaffewecker:
   -> Deckel wird auf Presse gesenkt
  - Zeit abgelaufen
   -> Presse runterdrücken
-  -> Siganl
+  -> Signal
