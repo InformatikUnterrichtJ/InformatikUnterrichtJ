@@ -39,3 +39,9 @@ Wirkungsgefüge Kaffewecker:
  - Zeit abgelaufen
   -> Presse runterdrücken
   -> Signal
+  
+  #### 06.09.2022
+  Am anfang der Stunde entschieden wir uns, nun den Rasberry Pie auszuprobieren. Nach Rücksprache mit Herr Buhl zu unserem Projekt, informierte uns dieser, dass der Arduino deutlich besser für unser Projekt geeignet ist. Wir haben einen Arduino zur Verfügung gestellt bekommen und haben uns zuerst mit den Einzelteilen bekannt gemacht. Anschließend haben wir einen Code geschrieben der eine LED blinken lassen hat, um uns mit dem Programm bekannt zu ,achen. Da der Computer anschließend eingefroren ist und wir diesen neustarten mussten, wobei es ebenfalls Probleme gab, konnten wir in der Stunde nicht weiterarbeiten und haben zusätzlich keine screenshots vom geschriebenen Code.
+  
+  #### 07.09.2022
+  In dieser Stunde haben wir uns Tutorials zum Arduino angeschaut. Wir haben gelernt wie wir Element wie LEDs, Motoren, usw. zu verbinden haben. Anschließend haben wir das gelernte Wissen etwas ausprobiert und zuerst vorgeschriebene Codes benutzt um auszuprobieren, ob wir alles korrekt verbungen haben. Anfangs lief es nicht ganz reibungslos, doch konnten wir am Ende ohne Probleme verschiedene LEDs gleichzeit, abwechselnd und in Rythmen aufleuchten lassen. Der Motor lief gegen Ende auch, jedoch mussten wir hierbei deutlich länger knobeln und mussten uns erneut Hilfe im Internet suchen. Am Ende der Stunde verfassten wir zusätzlich zu diesem README-Beitrag ebenfalls den der letzuten Stunde, da dies am 06.09.2022 nicht mehr möglich war, nachdem der Computer abgestürzt war.
