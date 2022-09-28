@@ -8,6 +8,10 @@
  - [31.08.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#31082022)
  - [06.09.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#06092022)
  - [07.09.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#07092022)
+ - [13.09.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#13092022)
+ - [14.09.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#14092022)
+ - [27.09.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#27092022)
+ - [28.09.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
 
 
 #### 16.08.2022
