@@ -63,3 +63,12 @@ Nach der einwöchigen Pause durch die Studienfahrt, wollten wir uns in dieser St
 
 #### 28.09.2022
 Heute haben wir zuerst den README-Eintrag der letzten Stunde nachgeholt, da dies durch technische Schwirigkeiten nicht mehr möglich war am 27.09.2022. Anschließend haben wir uns wieder den Servo Motor zugewandt.
+
+#### 04.10.2022
+Unterrichtsstunde entfallen.
+
+#### 05.10.2022
+Da der Arduino nicht für uns funktioniert hat, haben wir uns entschlossen nach alternativen zu erkundigen. Zuhause haben wir uns jeweils umgeschaut, welche Materialien wir besitzen. Unteranderem haben wir einen HuCon gefunden. Wir entschließen uns mit diesem zu arbeiten, da er sowohl die Programmiersprache "Blockly", als auch Python besitzt und wir so keine zusätzlichen Materialien besorgen müssen.
+
+#### 23.11.2022
+
