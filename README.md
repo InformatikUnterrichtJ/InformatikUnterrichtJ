@@ -70,5 +70,12 @@ Unterrichtsstunde entfallen.
 #### 05.10.2022
 Da der Arduino nicht für uns funktioniert hat, haben wir uns entschlossen nach alternativen zu erkundigen. Zuhause haben wir uns jeweils umgeschaut, welche Materialien wir besitzen. Unteranderem haben wir einen HuCon gefunden. Wir entschließen uns mit diesem zu arbeiten, da er sowohl die Programmiersprache "Blockly", als auch Python besitzt und wir so keine zusätzlichen Materialien besorgen müssen.
 
+25.10 -> ausgefallen
+26.10 
+01.11 -> ausgefallen schulentwicklungstag
+02.11
+08.11
+09.11
+
 #### 23.11.2022
 
