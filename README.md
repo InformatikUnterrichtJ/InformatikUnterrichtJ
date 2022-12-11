@@ -76,6 +76,10 @@ Da der Arduino nicht für uns funktioniert hat, haben wir uns entschlossen nach 
 02.11
 08.11
 09.11
+16.11
+17.11 ->ausgefallen
+
 
 #### 23.11.2022
 
+06.12
