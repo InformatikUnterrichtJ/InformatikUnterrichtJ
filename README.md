@@ -31,7 +31,7 @@ Das Projekt nannten wir den "Which is the right one"-Simulator. Die Idee dahinte
 - [Code Kreis (grün)](https://user-images.githubusercontent.com/111415429/187611787-019f5ed9-9069-4f1f-bc55-4a4b8b4d57ae.png)
 
 #### 30.08.2022
-In den letzten Stunden haben wir uns mit verschiedenen Programmiersprachen auseinandergesetzt. Heute haben wir uns allerdings wieder mit unserem eigentlichem Projekt beschäftigt. Und wir uns für einer "smarte" Kaffeemaschine entschieden, die mit dem Wecker verbunden ist und angeht sobald dieser morgens klingelt. Daraufhin haben wir uns mit dessen Umsetzung beschäftigt. joar.dat wars
+In den letzten Stunden haben wir uns mit verschiedenen Programmiersprachen auseinandergesetzt. Heute haben wir uns allerdings wieder mit unserem eigentlichem Projekt beschäftigt. Und wir uns für eine "smarte" Kaffeemaschine entschieden, die mit dem Wecker verbunden ist und angeht sobald dieser morgens klingelt. Daraufhin haben wir uns mit dessen Umsetzung beschäftigt. joar.dat wars
 
 #### 31.08.2022
 Heute haben wir uns wieder unserem Arbeitsprotokoll zugewandt und dieses mit genaueren Beschreibungen und Screenshots erweitert.
@@ -47,22 +47,22 @@ Wirkungsgefüge Kaffewecker:
   -> Signal
   
   #### 06.09.2022
-  Am anfang der Stunde entschieden wir uns, nun den Rasberry Pie auszuprobieren. Nach Rücksprache mit Herr Buhl zu unserem Projekt, informierte uns dieser, dass der Arduino deutlich besser für unser Projekt geeignet ist. Wir haben einen Arduino zur Verfügung gestellt bekommen und haben uns zuerst mit den Einzelteilen bekannt gemacht. Anschließend haben wir einen Code geschrieben der eine LED blinken lassen hat, um uns mit dem Programm bekannt zu ,achen. Da der Computer anschließend eingefroren ist und wir diesen neustarten mussten, wobei es ebenfalls Probleme gab, konnten wir in der Stunde nicht weiterarbeiten und haben zusätzlich keine screenshots vom geschriebenen Code.
+  Am anfang der Stunde entschieden wir uns, nun den Rasberry Pie auszuprobieren. Nach Rücksprache mit Herr Buhl zu unserem Projekt, informierte uns dieser, dass der Arduino deutlich besser für unser Projekt geeignet ist. Wir haben einen Arduino zur Verfügung gestellt bekommen und haben uns zuerst mit den Einzelteilen bekannt gemacht. Anschließend haben wir einen Code geschrieben der eine LED blinken lassen hat, um uns mit dem Programm bekannt zu machen. Da der Computer anschließend eingefroren ist und wir diesen neustarten mussten, wobei es ebenfalls Probleme gab, konnten wir in der Stunde nicht weiterarbeiten und haben zusätzlich keine screenshots vom geschriebenen Code.
   
   #### 07.09.2022
-  In dieser Stunde haben wir uns Tutorials zum Arduino angeschaut. Wir haben gelernt wie wir Element wie LEDs, Motoren, usw. zu verbinden haben. Anschließend haben wir das gelernte Wissen etwas ausprobiert und zuerst vorgeschriebene Codes benutzt um auszuprobieren, ob wir alles korrekt verbungen haben. Anfangs lief es nicht ganz reibungslos, doch konnten wir am Ende ohne Probleme verschiedene LEDs gleichzeit, abwechselnd und in Rythmen aufleuchten lassen. Der Motor lief gegen Ende jedoch noch nicht, weshalb wir uns damit in den nächsten Stunden nochmal beschäftigen werden. Am Ende der Stunde verfassten wir zusätzlich zu diesem README-Beitrag ebenfalls den der letzten Stunde, da dies am 06.09.2022 nicht mehr möglich war, nachdem der Computer abgestürzt war.
+  In dieser Stunde haben wir uns Tutorials zum Arduino angeschaut. Wir haben gelernt wie wir Element wie LEDs, Motoren, usw. zu verbinden haben. Anschließend haben wir das gelernte Wissen ausprobiert und zuerst vorgeschriebene Codes benutzt um auszuprobieren, ob wir alles korrekt verbungen haben. Anfangs lief es nicht ganz reibungslos, doch konnten wir am Ende ohne Probleme verschiedene LEDs gleichzeit, abwechselnd und in Rythmen aufleuchten lassen. Der Motor lief gegen Ende jedoch noch nicht, weshalb wir uns damit in den nächsten Stunden nochmal beschäftigen werden. Am Ende der Stunde verfassten wir zusätzlich zu diesem README-Beitrag ebenfalls den der letzten Stunde, da dies am 06.09.2022 nicht mehr möglich war, nachdem der Computer abgestürzt war.
 
 #### 13.09.2022
-Heute haben wir weiterhin mit dem Arduino gearbeitet, um uns weitere Kenntnisse anzueignen. Dieses mal haben wir statt den eingebauten LEDs, externe LEDs zum leuchten gebracht. Zudem haben wir weitere LEDs kombiniert und auch diese zum blinken gebracht. Hierbei haben wir festgestellt, dass je mehr LEDs benutzt werden, desto schwacher das Leuchten wird.
+#Heute haben wir weiter mit dem Arduino gearbeitet, um uns weitere Kenntnisse anzueignen. Dieses mal haben wir statt den eingebauten LEDs, externe LEDs zum leuchten gebracht. Zudem haben wir weitere LEDs kombiniert und auch diese zum blinken gebracht# Hierbei haben wir festgestellt, dass je mehr LEDs benutzt werden, desto schwacher das Leuchten wird.
 
 #### 14.09.2022
-In dieser Doppelstunde hat der Computer, mit dem wir in den vorherigen Stunden gearbeitet haben, ein Update gemacht. Deshalb mussten wir an dem Lehrer Computer anfangs arbeiten. Der Arduino wurde dort nicht angezeigt, weshalb wir uns erstmal um dieses Problem kümmern mussten. Dann haben wir uns wieder dem Motor zugewendet und versucht diesen zum laufen zu bringen, was uns allerdings nicht gelungen ist. Als wir wieder an unserem Computer waren und das Update abgeschlossen war, haben wir nochmal versucht den Motor zum laufen zu bringen. Dies ist uns aus unerklärlichen Gründen wieder nicht gelungen, weshalb wir unsere Stundenprotokolle erweitert haben. Und als Ziel für nächster Stunde nehmen wir uns vor, den Motor das nächste mal zum Laufen zu bringen.
+In dieser Doppelstunde hat der Computer, mit dem wir in den vorherigen Stunden gearbeitet haben, ein Update gemacht. Deshalb mussten wir anfangs am Lehrercomputer arbeiten. Der Arduino wurde dort nicht angezeigt, weshalb wir uns erstmal um dieses Problem kümmern mussten. Dann haben wir uns wieder dem Motor zugewendet und versucht diesen zum laufen zu bringen, was uns allerdings nicht gelungen ist. Als wir wieder an unserem Computer waren und das Update abgeschlossen war, haben wir nochmal versucht den Motor zum laufen zu bringen. Dies ist uns aus unerklärlichen Gründen wieder nicht gelungen, weshalb wir unsere Stundenprotokolle erweitert haben. Als Ziel für die nächsten Stunde nehmen wir uns vor, den Motor zum Laufen zu bringen.
 
 #### 27.09.2022
 Nach der einwöchigen Pause durch die Studienfahrt, wollten wir uns in dieser Stunde wieder mit dem Servo Motor befassen. Nachdem wir ein gutes Tutorial im Internet gefunden haben und die Hardware soweit richtig zusammengesteckt haben, schließen wir den Arduino an den Computer an. Dies führte erneut zum Einfrieren des Computers. Jedoch ließ sich der Computer erst nicht Neustarten und als wir dies endlich hinbekommen haben, musste der Computer Instalationen und Updates machen, sodass wir nicht mehr zum Arbeiten kamen.
 
 #### 28.09.2022
-Heute haben wir zuerst den README-Eintrag der letzten Stunde nachgeholt, da dies durch technische Schwirigkeiten nicht mehr möglich war am 27.09.2022. Anschließend haben wir uns wieder den Servo Motor zugewandt.
+Heute haben wir zuerst den README-Eintrag der letzten Stunde nachgeholt, da dies durch technische Schwierigkeiten nicht mehr möglich war am 27.09.2022. Anschließend haben wir uns wieder den Servo Motor zugewandt.##
 
 #### 04.10.2022
 Unterrichtsstunde entfallen.
@@ -70,16 +70,27 @@ Unterrichtsstunde entfallen.
 #### 05.10.2022
 Da der Arduino nicht für uns funktioniert hat, haben wir uns entschlossen nach alternativen zu erkundigen. Zuhause haben wir uns jeweils umgeschaut, welche Materialien wir besitzen. Unteranderem haben wir einen HuCon gefunden. Wir entschließen uns mit diesem zu arbeiten, da er sowohl die Programmiersprache "Blockly", als auch Python besitzt und wir so keine zusätzlichen Materialien besorgen müssen.
 
-25.10 -> ausgefallen
-26.10 
-01.11 -> ausgefallen schulentwicklungstag
-02.11
-08.11
-09.11
-16.11
-17.11 ->ausgefallen
+#### 11.10.2022
+An diesem Tag haben wir angefangen mit dem Hucon programmiert, indem 
 
+#### 12.10.2022 
+scratch
+#### 18.10.2022
+#### 19.10.2022
+#### 25.10.2022 -> ausgefallen
+#### 26.10.2022
+#### 01.11.2022 -> ausgefallen schulentwicklungstag
+#### 02.11.2022
+#### 08.11.2022
+#### 09.11.2022
+#### 15.11.2022 ausgefallen
+#### 16.11.2022 
+#### 22.11.2022 ausgefallen
 
 #### 23.11.2022
-
-06.12
+#### 29.11.2022 ausgefallen
+#### 30.11.2022 ausgefallen
+#### 06.12.2022
+#### 07.12.2022
+#### 13.12.2022
+#### 14.12.2022
