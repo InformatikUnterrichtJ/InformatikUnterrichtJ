@@ -79,6 +79,7 @@ scratch
 <summary> Bild zum 12.10 </summary>
 <br>
 ![Bild](s1.PNG "Bild")
+</br>
  </details>
 #### 18.10.2022
 #### 19.10.2022
