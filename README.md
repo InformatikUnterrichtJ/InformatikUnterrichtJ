@@ -112,7 +112,8 @@ In der heutigen Doppelstunde haben wir uns mit dem Schießen der Raumschiffe bes
 #### 01.11.2022 
 Diese Stunde ist ausgefallen.
 #### 02.11.2022
-#### 08.11.2022
+code für schießen beendet
+#### 08.11.2022   
 #### 09.11.2022
 #### 15.11.2022 
 Diese Stunde ist ausgefallen.
