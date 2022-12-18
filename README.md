@@ -74,7 +74,7 @@ Da der Arduino nicht für uns funktioniert hat, haben wir uns entschlossen nach 
 An diesem Tag haben wir angefangen mit dem Hucon programmiert, indem 
 
 #### 12.10.2022 
-Heute haben wir mit unserem Scratch Projekt angefangen. Unsere Idee war es, ein Space-shooter Spiel zu programmieren. Deshalb haben wir anfangs einen Galaxien Hintergrund gewählt und eine Startseite entworfen, bei der die Schrift zusätzlich einen Schatten aufweist. Außerdem haben wir damit angefangen, die einzelnen Raumschiffe zu modellieren. Wie auf dem Bild unten zusehen ist , haben wir uns dafür entschieden, dass der Spieler zischen den vier Raumschiffen eins zum Spielen wählen kann.
+Heute haben wir mit unserem Scratch Projekt angefangen. Unsere Idee war es, ein Space-shooter Spiel zu programmieren. Deshalb haben wir anfangs einen Galaxien Hintergrund gewählt und eine Startseite entworfen, bei der die Schrift zusätzlich einen Schatten aufweist. Außerdem haben wir damit angefangen, die einzelnen Raumschiffe zu modellieren. Wie auf dem Bild unten zusehen ist, haben wir uns dafür entschieden, dass der Spieler zwischen den vier Raumschiffen eins zum Spielen wählen kann.
 <details>
 <summary> Bild zum 12.10 </summary>
 
@@ -83,7 +83,15 @@ Heute haben wir mit unserem Scratch Projekt angefangen. Unsere Idee war es, ein 
  </details>
 
 #### 18.10.2022
+An diesem Tag haben wir uns damit beschäftigt, die Seite mit der Farbauswahl fertigzustellen. Dazu haben wir ersteinmal die modellierten Raumschiffe in eine Reihe positioniert und dannach vier farblich passende Buttons modelliert, die zur Auswahl der Raumschiffe fungieren. Die Raumschiffe sind hierbei senkrecht in einer Reihe und wir haben auf einen gleichen x-Wert geachtet. Die Buttons sind dagegen waagerecht in einer Reihe und haben dementsprechend den gleichen y-wert. Über den Buttons haben wir dann noch eine Schrift gesetzt, welche besagt:"Suche eine Farbe aus".
+<details>
+<summary> Bild zum 18.10 </summary>
+
+![Bild](s3.PNG "Bild")
+
+ </details>
 #### 19.10.2022
+
 #### 25.10.2022 -> ausgefallen
 #### 26.10.2022
 #### 01.11.2022 -> ausgefallen schulentwicklungstag
