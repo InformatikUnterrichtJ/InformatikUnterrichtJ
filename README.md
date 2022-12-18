@@ -91,20 +91,40 @@ An diesem Tag haben wir uns damit beschäftigt, die Seite mit der Farbauswahl fe
 
  </details>
 #### 19.10.2022
+Heute haben wir uns dem Code für die Buttons gewidmet und diesen programmiert. Hierbei haben wir uns dafür entschieden, dass wir die Auswahl für die jeweiligen Buttons über die Tastaur regulieren wollen. Als Spieler hat man dann eine Auswahl von 1-4. In der restlichen Zeit haben wir uns schonmal bei verschiedenen Websiten eingelesen, wie man bei Scratch beispielweise das Schießen der Raumschiffe programmieren kann, um in den nächsten Stunden damit fortzufahren.
+<details>
+<summary> Bild zum 19.10 </summary>
 
-#### 25.10.2022 -> ausgefallen
+![Bild](s5.PNG "Bild")
+
+ </details>
+
+#### 25.10.2022
+Diese Stunde ist ausgefallen.
 #### 26.10.2022
-#### 01.11.2022 -> ausgefallen schulentwicklungstag
+In der heutigen Doppelstunde haben wir uns mit dem Schießen der Raumschiffe beschäftigt. Dafür haben wir ersteinmal die Munition in den jeweiligen vier Farben modelliert. Daraufhin haben wir uns dazu entschieden, dass das Schießen über die Taste "a" reguliert werden soll und angefangen dies zu programmieren.
+<details>
+<summary> Bild zum 26.10 </summary>
+
+![Bild](s6.PNG "Bild")
+
+ </details>
+#### 01.11.2022 
+Diese Stunde ist ausgefallen.
 #### 02.11.2022
 #### 08.11.2022
 #### 09.11.2022
-#### 15.11.2022 ausgefallen
+#### 15.11.2022 
+Diese Stunde ist ausgefallen.
 #### 16.11.2022 
-#### 22.11.2022 ausgefallen
+#### 22.11.2022 
+Diese Stunde ist ausgefallen.
 
 #### 23.11.2022
-#### 29.11.2022 ausgefallen
-#### 30.11.2022 ausgefallen
+#### 29.11.2022
+Diese Stunde ist ausgefallen.
+#### 30.11.2022
+Diese Stunde ist ausgefallen.
 #### 06.12.2022
 #### 07.12.2022
 #### 13.12.2022
