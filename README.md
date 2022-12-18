@@ -74,7 +74,7 @@ Da der Arduino nicht für uns funktioniert hat, haben wir uns entschlossen nach 
 An diesem Tag haben wir angefangen mit dem Hucon programmiert, indem 
 
 #### 12.10.2022 
-scratch
+Heute haben wir mit unserem Scratch Projekt angefangen. Unsere Idee war es, ein Space-shooter Spiel zu programmieren. Deshalb haben wir anfangs einen Galaxien Hintergrund gewählt 
 <details>
 <summary> Bild zum 12.10 </summary>
 
