@@ -75,7 +75,7 @@ An diesem Tag haben wir angefangen mit dem Hucon programmiert, indem
 
 #### 12.10.2022 
 scratch
-![Bild](s1.png "Bild")
+![Bild](InformatikUnterrichtJ/s1.png "Bild")
 #### 18.10.2022
 #### 19.10.2022
 #### 25.10.2022 -> ausgefallen
