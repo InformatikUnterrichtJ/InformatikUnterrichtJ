@@ -62,7 +62,7 @@ In dieser Doppelstunde hat der Computer, mit dem wir in den vorherigen Stunden g
 Nach der einwöchigen Pause durch die Studienfahrt, wollten wir uns in dieser Stunde wieder mit dem Servo Motor befassen. Nachdem wir ein gutes Tutorial im Internet gefunden haben und die Hardware soweit richtig zusammengesteckt haben, schließen wir den Arduino an den Computer an. Dies führte erneut zum Einfrieren des Computers. Jedoch ließ sich der Computer erst nicht Neustarten und als wir dies endlich hinbekommen haben, musste der Computer Instalationen und Updates machen, sodass wir nicht mehr zum Arbeiten kamen.
 
 #### 28.09.2022
-Heute haben wir zuerst den README-Eintrag der letzten Stunde nachgeholt, da dies durch technische Schwierigkeiten nicht mehr möglich war am 27.09.2022. Anschließend haben wir uns wieder den Servo Motor zugewandt.##
+Heute haben wir zuerst den README-Eintrag der letzten Stunde nachgeholt, da dies durch technische Schwierigkeiten nicht mehr möglich war am 27.09.2022. Anschließend haben wir uns wieder den Servo Motor zugewandt. Am Ende der Stunde haben wir diesen Motor dann auch zum Rotieren gebracht, was allerdings sehr viel Zeit in Anspruch genommen hat, da unser Computer anfangs immer wieder abgestürtzt ist.
 
 #### 04.10.2022
 Unterrichtsstunde entfallen.
@@ -71,7 +71,7 @@ Unterrichtsstunde entfallen.
 Da der Arduino nicht für uns funktioniert hat, haben wir uns entschlossen nach alternativen zu erkundigen. Zuhause haben wir uns jeweils umgeschaut, welche Materialien wir besitzen. Unteranderem haben wir einen HuCon gefunden. Wir entschließen uns mit diesem zu arbeiten, da er sowohl die Programmiersprache "Blockly", als auch Python besitzt und wir so keine zusätzlichen Materialien besorgen müssen.
 
 #### 11.10.2022
-An diesem Tag haben wir angefangen mit dem Hucon programmiert, indem 
+An diesem Tag haben wir angefangen mit dem Hucon programmiert, indem wir externe Lampen zum Leuchten gebracht haben. Nach langem Überlegen, haben wir uns dann dazu entschieden, nicht weiter mit physical computing zu arbeiten. Dies hatte verschiedene Gründe. Erst einmal ist unser Computer dauernd abgestürzt, wenn wir ihn mit dem Arduino oder HuCon verbunden haben, weshalb wir nicht wirklich vorangekommen sind mit unserem Projekt. Das alles hat demotiviert und wir haben uns dazu entschlossen, trotz des Zeitdrucks mit einem Scratch Projekt anzufangen.
 
 #### 12.10.2022 
 Heute haben wir mit unserem Scratch Projekt angefangen. Unsere Idee war es, ein Space-shooter Spiel zu programmieren. Deshalb haben wir anfangs einen Galaxien Hintergrund gewählt und eine Startseite entworfen, bei der die Schrift zusätzlich einen Schatten aufweist. Außerdem haben wir damit angefangen, die einzelnen Raumschiffe zu modellieren. Wie auf dem Bild unten zusehen ist, haben wir uns dafür entschieden, dass der Spieler zwischen den vier Raumschiffen eins zum Spielen wählen kann.
@@ -168,14 +168,24 @@ Heute haben wir uns wieder mit dem Code für die Raumschiffe beschäftigt und di
  
 #### 29.11.2022
 Diese Stunde ist ausgefallen.
+
 #### 30.11.2022
 Diese Stunde ist ausgefallen.
-#### 06.12.2022
-schriften
-#### 07.12.2022
-andere schrift
-#### 13.12.2022
-Ein Problem war, dass man die Endaussage "Verloren" mit den Pfeiltasten verschieben konnte. Dies haben wir behoben, indem wir diese den folgenden Falls Block hinzugefügt. Dieser stellt sicher, dass nach Ende des Spiels also wenn my variable 0 ist, sich dieses Objekt nicht mehr bewegt. s21
 
+#### 06.12.2022
+
+#### 07.12.2022
+Heute waren wir dann so gut wie fertig mit unserem Projekt. Allerdings haben wir noch ein paar Dinge verändert, die uns noch gestört haben. Ein Problem war, dass man die Endaussage "Verloren" mit den Pfeiltasten verschieben konnte. Dies haben wir behoben, indem wir diese den folgenden Falls Block hinzugefügt. Dieser stellt sicher, dass nach Ende des Spiels also wenn my variable 0 ist, sich dieses Objekt nicht mehr bewegt. 
+<details>
+<summary> Bild zum 07.12 </summary>
+
+![Bild](s20.PNG "Bild")
+
+ </details>
+ 
+#### 13.12.2022
+In dieser Stunde haben wir mit Herr Buhls Hilfe das Problem gelöst, dass die Meteroiden beim von rechts nach links fliegen, am Rand festhängen und nicht verschwinden. Dies haben wir gemacht, indem wir die Koordinaten verändert haben.
+ 
 #### 14.12.2022
+Dies war die letzte Stunde vor Abgabe. Da unser Projekt schon fertig war, haben wir mit dem Projektbericht schonmal angefangen.
 
