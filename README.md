@@ -138,12 +138,16 @@ Diese Stunde ist ausgefallen.
 Diese Stunde ist ausgefallen.
 
 #### 23.11.2022
-schriften die ansgaen
+raumschiffe nach oben und unten
 #### 29.11.2022
 Diese Stunde ist ausgefallen.
 #### 30.11.2022
 Diese Stunde ist ausgefallen.
 #### 06.12.2022
+schriften
 #### 07.12.2022
+andere schrift
 #### 13.12.2022
+Probleme behoben
 #### 14.12.2022
+
