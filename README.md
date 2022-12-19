@@ -14,25 +14,25 @@
  - [28.09.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
  - [04.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
  - [05.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [11.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#07092022)
- - [12.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#13092022)
- - [18.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#14092022)
- - [19.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#27092022)
- - [25.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [26.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [01.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [02.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#13092022)
- - [08.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#14092022)
- - [09.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#27092022)
- - [15.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [16.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [22.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [23.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#07092022)
- - [29.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#13092022)
- - [06.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#14092022)
- - [07.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#27092022)
- - [13.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#28092022)
- - [14.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#14122022)
+ - [11.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/blob/main/README.md#11102022)
+ - [12.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#12102022)
+ - [18.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#18102022)
+ - [19.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#19102022)
+ - [25.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#25102022)
+ - [26.10.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#26102022)
+ - [01.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#01112022)
+ - [02.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#02112022)
+ - [08.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#08112022)
+ - [09.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#09112022)
+ - [15.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#15112022)
+ - [16.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#16112022)
+ - [22.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#22112022)
+ - [23.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#23112022)
+ - [29.11.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#29112022)
+ - [06.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#06122022)
+ - [07.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#07122022)
+ - [13.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#13122022)
+ - [14.12.2022](https://github.com/InformatikUnterrichtJ/InformatikUnterrichtJ/edit/main/README.md#13122022)
  
  
 #### 16.08.2022
@@ -166,7 +166,7 @@ Heute haben wir uns weiterhin mit dem Programmieren der Meteroiden beschäftigt.
 #### 15.11.2022 
 Diese Stunde ist ausgefallen.
 
-#### 16.11.2022 s19
+#### 16.11.2022
 In den heutigen Stunden haben wir den Code für die Meteroiden fertig gestellt, sodass sie beim Beschießen explodieren und daraufhin ihr Kostüm ändern. Demnoch hinzuzufügen werden die Meteroiden zusätzlich schneller mit der Zeit. In folge dessen ist unser Spiel ein undendlich Spiel, was automatisch schwieriger wird je länger man es spielt. 
 <details>
 <summary> Bild zum 16.11 </summary>
