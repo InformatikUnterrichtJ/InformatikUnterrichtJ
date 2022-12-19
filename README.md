@@ -112,7 +112,7 @@ In der heutigen Doppelstunde haben wir uns mit dem Schießen der Raumschiffe bes
 #### 01.11.2022 
 Diese Stunde ist ausgefallen.
 #### 02.11.2022
-Heute haben wir den Code für das Schießen fertiggestellt und berücksichtigt, dass die Klone von dem Raumschiff aus starten. Und sobald diese den Rand oder den Meteroid berühren, sich selbst zerstören. Wie auf dem angehängten Bild zu erkennen ist. Außerdem haben wir uns schonmal bei einigen Websiten darüber informiert und eingelesen, wie wir die Meteroide programmieren können.
+Heute haben wir den Code für das Schießen fertiggestellt und berücksichtigt, dass die Klone von dem Raumschiff aus starten. Und sobald diese den Rand oder den Meteroid berühren, sich selbst zerstören. Wie auf dem angehängten Bild zu erkennen ist. Außerdem haben wir uns schonmal bei einigen Websiten darüber informiert und eingelesen, wie wir die Meteroide programmieren können. (s16)   
 
 #### 08.11.2022 
 Wie schon im letzten Beitrag angekündigt, haben wir uns heute den Meteroiden gewidmet. Hierfür haben wir erstmal den Meteroiden modelliert und in Scratch eingefügt und schonmal mit dem Code angefangen. Für die Meteroiden haben wir noch vor, mehrere Kostüme zu modellieren, die sich stetig ändern, damit das Spiel vielfältiger wird.
@@ -123,13 +123,22 @@ Wie schon im letzten Beitrag angekündigt, haben wir uns heute den Meteroiden ge
 
  </details>
 #### 09.11.2022
+Heute haben wir uns weiterhin mit dem Programmieren der Meteroiden beschäftigt. Erstmal haben wir noch verschiedene Kostüme für die Meteroiden entwickelt, die sich stetig ändern sollen, was wir in unseren Code berücksichtigen. Außerdem haben wir die Explosion modelliert, die geschehen soll, wenn ein Meteroid von einem Laser getroffen wird. Den Code für die Meteroiden und für die Explosion haben wir dahingehend weitergeführt.
+<details>
+<summary> Bild zum 09.11 </summary>
+
+![Bild](s14.PNG "Bild")
+
+ </details>
 #### 15.11.2022 
 Diese Stunde ist ausgefallen.
-#### 16.11.2022 
+#### 16.11.2022
+ s19
 #### 22.11.2022 
 Diese Stunde ist ausgefallen.
 
 #### 23.11.2022
+schriften die ansgaen
 #### 29.11.2022
 Diese Stunde ist ausgefallen.
 #### 30.11.2022
