@@ -90,6 +90,7 @@ An diesem Tag haben wir uns damit beschäftigt, die Seite mit der Farbauswahl fe
 ![Bild](s3.PNG "Bild")
 
  </details>
+ 
 #### 19.10.2022
 Heute haben wir uns dem Code für die Buttons gewidmet und diesen programmiert. Hierbei haben wir uns dafür entschieden, dass wir die Auswahl für die jeweiligen Buttons über die Tastaur regulieren wollen. Als Spieler hat man dann eine Auswahl von 1-4. In der restlichen Zeit haben wir uns schonmal bei verschiedenen Websiten eingelesen, wie man bei Scratch beispielweise das Schießen der Raumschiffe programmieren kann, um in den nächsten Stunden damit fortzufahren.
 <details>
@@ -101,6 +102,7 @@ Heute haben wir uns dem Code für die Buttons gewidmet und diesen programmiert. 
 
 #### 25.10.2022
 Diese Stunde ist ausgefallen.
+
 #### 26.10.2022
 In der heutigen Doppelstunde haben wir uns mit dem Schießen der Raumschiffe beschäftigt. Dafür haben wir ersteinmal die Munition in den jeweiligen vier Farben modelliert. Daraufhin haben wir uns dazu entschieden, dass das Schießen über die Taste "a" reguliert werden soll und angefangen dies zu programmieren.
 <details>
@@ -112,6 +114,7 @@ In der heutigen Doppelstunde haben wir uns mit dem Schießen der Raumschiffe bes
  
 #### 01.11.2022 
 Diese Stunde ist ausgefallen.
+
 #### 02.11.2022
 Heute haben wir den Code für das Schießen fertiggestellt und berücksichtigt, dass die Klone von dem Raumschiff aus starten. Und sobald diese den Rand oder den Meteroid berühren, sich selbst zerstören. Wie auf dem angehängten Bild zu erkennen ist. Außerdem haben wir uns schonmal bei einigen Websiten darüber informiert und eingelesen, wie wir die Meteroide programmieren können.
  <details>
@@ -141,13 +144,21 @@ Heute haben wir uns weiterhin mit dem Programmieren der Meteroiden beschäftigt.
  
 #### 15.11.2022 
 Diese Stunde ist ausgefallen.
-#### 16.11.2022
- s19
+
+#### 16.11.2022 s19
+In den heutigen Stunden haben wir den Code für die Meteroiden fertig gestellt, sodass sie beim Beschießen explodieren und daraufhin ihr Kostüm ändern.
+<details>
+<summary> Bild zum 16.11 </summary>
+
+![Bild](s19.PNG "Bild")
+
+ </details>
+ 
 #### 22.11.2022 
 Diese Stunde ist ausgefallen.
 
-#### 23.11.2022
-raumschiffe nach oben und unten
+#### 23.11.2022 s20
+Heute haben wir uns wieder mit dem Code für die Raumschiffe beschäftigt
 #### 29.11.2022
 Diese Stunde ist ausgefallen.
 #### 30.11.2022
