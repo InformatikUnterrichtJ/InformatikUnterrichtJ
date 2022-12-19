@@ -146,7 +146,7 @@ Heute haben wir uns weiterhin mit dem Programmieren der Meteroiden beschäftigt.
 Diese Stunde ist ausgefallen.
 
 #### 16.11.2022 s19
-In den heutigen Stunden haben wir den Code für die Meteroiden fertig gestellt, sodass sie beim Beschießen explodieren und daraufhin ihr Kostüm ändern.
+In den heutigen Stunden haben wir den Code für die Meteroiden fertig gestellt, sodass sie beim Beschießen explodieren und daraufhin ihr Kostüm ändern. Demnoch hinzuzufügen werden die Meteroiden zusätzlich schneller mit der Zeit. In folge dessen ist unser Spiel ein undendlich Spiel, was automatisch schwieriger wird je länger man es spielt. 
 <details>
 <summary> Bild zum 16.11 </summary>
 
@@ -157,8 +157,15 @@ In den heutigen Stunden haben wir den Code für die Meteroiden fertig gestellt, 
 #### 22.11.2022 
 Diese Stunde ist ausgefallen.
 
-#### 23.11.2022 s20
-Heute haben wir uns wieder mit dem Code für die Raumschiffe beschäftigt
+#### 23.11.2022 
+Heute haben wir uns wieder mit dem Code für die Raumschiffe beschäftigt und diesen dahingehend erweitert, sodass man als Spieler sein gewähltes Raumschiff nach oben und unten bewegen kann. Dies wird über die Tastatur mit den entsprechenden Pfeiltasten reguliert.
+<details>
+<summary> Bild zum 23.11 </summary>
+
+![Bild](s20.PNG "Bild")
+
+ </details>
+ 
 #### 29.11.2022
 Diese Stunde ist ausgefallen.
 #### 30.11.2022
@@ -168,6 +175,7 @@ schriften
 #### 07.12.2022
 andere schrift
 #### 13.12.2022
-Probleme behoben
+Ein Problem war, dass man die Endaussage "Verloren" mit den Pfeiltasten verschieben konnte. Dies haben wir behoben, indem wir diese den folgenden Falls Block hinzugefügt. Dieser stellt sicher, dass nach Ende des Spiels also wenn my variable 0 ist, sich dieses Objekt nicht mehr bewegt. s21
+
 #### 14.12.2022
 
