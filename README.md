@@ -173,6 +173,7 @@ Diese Stunde ist ausgefallen.
 Diese Stunde ist ausgefallen.
 
 #### 06.12.2022
+An diesem Tag haben wir noch Verbesserungen an unser Spiel vorgenommen. Was uns noch gestört hattte, war, dass das Raumschiff beim Erreichen des oberen Randes andere Geräusche gemacht hat, als es normalerweise macht. Dieses Problem konnten wir allerdings nicht lösen, weshalb wir den Sound für das Raumschiff einfach konmplett entfernt haben.
 
 #### 07.12.2022
 Heute waren wir dann so gut wie fertig mit unserem Projekt. Allerdings haben wir noch ein paar Dinge verändert, die uns noch gestört haben. Ein Problem war, dass man die Endaussage "Verloren" mit den Pfeiltasten verschieben konnte. Dies haben wir behoben, indem wir diese den folgenden Falls Block hinzugefügt. Dieser stellt sicher, dass nach Ende des Spiels also wenn my variable 0 ist, sich dieses Objekt nicht mehr bewegt. 
