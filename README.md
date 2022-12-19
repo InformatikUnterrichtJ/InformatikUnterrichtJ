@@ -112,8 +112,16 @@ In der heutigen Doppelstunde haben wir uns mit dem Schießen der Raumschiffe bes
 #### 01.11.2022 
 Diese Stunde ist ausgefallen.
 #### 02.11.2022
-code für schießen beendet
-#### 08.11.2022   
+Heute haben wir den Code für das Schießen fertiggestellt und berücksichtigt, dass die Klone von dem Raumschiff aus starten. Und sobald diese den Rand oder den Meteroid berühren, sich selbst zerstören. Wie auf dem angehängten Bild zu erkennen ist. Außerdem haben wir uns schonmal bei einigen Websiten darüber informiert und eingelesen, wie wir die Meteroide programmieren können.
+
+#### 08.11.2022 
+Wie schon im letzten Beitrag angekündigt, haben wir uns heute den Meteroiden gewidmet. Hierfür haben wir erstmal den Meteroiden modelliert und in Scratch eingefügt und schonmal mit dem Code angefangen. Für die Meteroiden haben wir noch vor, mehrere Kostüme zu modellieren, die sich stetig ändern, damit das Spiel vielfältiger wird.
+<details>
+<summary> Bild zum 08.11 </summary>
+
+![Bild](s7.PNG "Bild")
+
+ </details>
 #### 09.11.2022
 #### 15.11.2022 
 Diese Stunde ist ausgefallen.
